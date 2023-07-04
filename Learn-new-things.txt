@@ -5,7 +5,6 @@ Learn About
 - js framework
   * vue
   * react
-- learn API
 - mendalami html, css, js
 - belajar Algoritma
 - belajar stuktur data
