@@ -1,7 +1,10 @@
 Learn About
-- css framework -> telwind
-- js framework -> react
-- learn API
+- css framework 
+  * telwind
+  * boostrap
+- js framework
+  * vue
+  * react
 - mendalami html, css, js
 - belajar Algoritma
 - belajar stuktur data
