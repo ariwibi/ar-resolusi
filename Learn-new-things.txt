@@ -1,0 +1,5 @@
+Learn About
+- css framework -> telwind
+- js framework -> react
+- learn API
+- mendalami html, css, js
