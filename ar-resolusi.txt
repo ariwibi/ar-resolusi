@@ -1,3 +1,5 @@
 AR resolusi
 - konsisten untuk mempelajari hal-hal yang berkaitan dengan frontend setiap hari
 - latihan untuk memperdalam pemahaman tentang matery yang telah di pelajari
+- membuat project setiap hari
+- menyelesaikan tugas
